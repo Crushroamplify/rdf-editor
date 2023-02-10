@@ -21,7 +21,7 @@ ARG 	VERSION
 #
 LABEL   com.openlinksw.vendor	= "OpenLink Software"
 LABEL   maintainer		= "OpenLink Support <support@openlinksw.com>"
-LABEL   copyright		= "Copyright (C) 2022 OpenLink Software"
+LABEL   copyright		= "Copyright (C) 2023 OpenLink Software"
 LABEL   version			= "$VERSION"
 LABEL   description		= "OpenLink Structured Data Editor v$VERSION (Docker Image)"
 
